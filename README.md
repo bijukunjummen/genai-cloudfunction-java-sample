@@ -1,4 +1,4 @@
-# Google Cloud Function sample for Gen AI Prediction for Palm 2
+# Google Cloud Function sample for Gen AI Prediction for Palm 2git cgit
 
 ## Running Locally
 ```shell
