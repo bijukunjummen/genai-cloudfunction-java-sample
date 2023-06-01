@@ -2,7 +2,7 @@
 
 ## Running Locally
 ```shell
-./gradlew cloudFunctionInvoker
+CURRENT_PROJECT=enter_the_name_of_the_project ./gradlew cloudFunctionRun
 ```
 
 ```shell
